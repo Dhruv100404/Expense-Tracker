@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\expenseclient\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|solutionrelative:expenseclient\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\expenseclient\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|solutionrelative:expenseclient\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6574379-9821-413C-B585-749DAE5F3809}|ExpenseHost\\ExpenseHost.csproj|c:\\users\\dhruv\\naitik\\expensetracker\\expensehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6574379-9821-413C-B585-749DAE5F3809}|ExpenseHost\\ExpenseHost.csproj|solutionrelative:expensehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6574379-9821-413C-B585-749DAE5F3809}|ExpenseHost\\ExpenseHost.csproj|c:\\users\\dhruv\\naitik\\expensetracker\\expensehost\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6574379-9821-413C-B585-749DAE5F3809}|ExpenseHost\\ExpenseHost.csproj|solutionrelative:expensehost\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|c:\\users\\dhruv\\naitik\\expensetracker\\expenseclient\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|solutionrelative:expenseclient\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\expenseclient\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|solutionrelative:expenseclient\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\expenseclient\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|solutionrelative:expenseclient\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\expenseclient\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|solutionrelative:expenseclient\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\expenseclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|solutionrelative:expenseclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\expenseclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEC02AE8-8E2D-47C2-8125-B9C3A579C26A}|ExpenseClient\\ExpenseClient.csproj|solutionrelative:expenseclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseHost\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseHost\\Program.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseHost\\Program.cs",
+              "RelativeToolTip": "ExpenseHost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:58:47.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form2.cs",
+              "RelativeDocumentMoniker": "ExpenseClient\\Form2.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form2.cs",
+              "RelativeToolTip": "ExpenseClient\\Form2.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAvwD4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:36:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form2.cs",
+              "RelativeDocumentMoniker": "ExpenseClient\\Form2.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form2.cs [Design]",
+              "RelativeToolTip": "ExpenseClient\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:36:39.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form3.cs",
+              "RelativeDocumentMoniker": "ExpenseClient\\Form3.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form3.cs",
+              "RelativeToolTip": "ExpenseClient\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:19:15.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form3.cs",
+              "RelativeDocumentMoniker": "ExpenseClient\\Form3.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form3.cs [Design]",
+              "RelativeToolTip": "ExpenseClient\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:19:07.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseHost\\Form1.cs",
+              "RelativeDocumentMoniker": "ExpenseHost\\Form1.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseHost\\Form1.cs [Design]",
+              "RelativeToolTip": "ExpenseHost\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:58:46.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form4.cs",
+              "RelativeDocumentMoniker": "ExpenseClient\\Form4.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form4.cs",
+              "RelativeToolTip": "ExpenseClient\\Form4.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T06:27:11.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form4.cs",
+              "RelativeDocumentMoniker": "ExpenseClient\\Form4.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form4.cs [Design]",
+              "RelativeToolTip": "ExpenseClient\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T06:06:19.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form1.cs",
+              "RelativeDocumentMoniker": "ExpenseClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form1.cs",
+              "RelativeToolTip": "ExpenseClient\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T06:04:48.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form1.cs",
+              "RelativeDocumentMoniker": "ExpenseClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Naitik\\ExpenseTracker\\ExpenseClient\\Form1.cs [Design]",
+              "RelativeToolTip": "ExpenseClient\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:29:34.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

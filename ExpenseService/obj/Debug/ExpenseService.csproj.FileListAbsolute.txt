@@ -1,0 +1,35 @@
+C:\shit crap\WSD\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.dll.config
+C:\shit crap\WSD\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.dll
+C:\shit crap\WSD\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.pdb
+C:\shit crap\WSD\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.csproj.AssemblyReference.cache
+C:\shit crap\WSD\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.csproj.CoreCompileInputs.cache
+C:\shit crap\WSD\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.dll
+C:\shit crap\WSD\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.pdb
+C:\Users\dhruv\Downloads\ExpenseTracker\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.dll.config
+C:\Users\dhruv\Downloads\ExpenseTracker\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.dll
+C:\Users\dhruv\Downloads\ExpenseTracker\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.pdb
+C:\Users\dhruv\Downloads\ExpenseTracker\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.csproj.AssemblyReference.cache
+C:\Users\dhruv\Downloads\ExpenseTracker\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\Downloads\ExpenseTracker\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.dll
+C:\Users\dhruv\Downloads\ExpenseTracker\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.pdb
+D:\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.dll.config
+D:\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.dll
+D:\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.pdb
+D:\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.csproj.AssemblyReference.cache
+D:\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.csproj.CoreCompileInputs.cache
+D:\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.dll
+D:\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.pdb
+C:\Users\dhruv\Downloads\exp\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.dll.config
+C:\Users\dhruv\Downloads\exp\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.dll
+C:\Users\dhruv\Downloads\exp\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.pdb
+C:\Users\dhruv\Downloads\exp\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.csproj.AssemblyReference.cache
+C:\Users\dhruv\Downloads\exp\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\Downloads\exp\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.dll
+C:\Users\dhruv\Downloads\exp\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.pdb
+C:\Users\dhruv\Naitik\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.dll.config
+C:\Users\dhruv\Naitik\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.dll
+C:\Users\dhruv\Naitik\ExpenseTracker\ExpenseService\bin\Debug\ExpenseService.pdb
+C:\Users\dhruv\Naitik\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.csproj.AssemblyReference.cache
+C:\Users\dhruv\Naitik\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\Naitik\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.dll
+C:\Users\dhruv\Naitik\ExpenseTracker\ExpenseService\obj\Debug\ExpenseService.pdb
