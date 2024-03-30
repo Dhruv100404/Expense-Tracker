@@ -55,6 +55,8 @@ namespace ExpenseClient
         {
             dateTimePicker1.Value = DateTime.Today.AddDays(-1);
             dateTimePicker2.Value = DateTime.Today;
+            dateTimePicker1.MaxDate = DateTime.Today;
+            dateTimePicker2.MaxDate = DateTime.Today;
             chart1.Size = new Size(300, 300);
             chart1.Series["s1"].IsValueShownAsLabel = true;
             chart3.Hide();
